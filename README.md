@@ -551,17 +551,7 @@ export const PLAYLIST_BY_SLUG_QUERY =
 }`);
 ```
 
-</details>
 
-## <a name="links">🔗 Assets</a>
-
-- Fonts and Assets used in the project can be found [here](https://drive.google.com/file/d/1OEFHnEq5pQFP86u8FOBLBBNxKPsbjjqU/view?usp=sharing)
-- [Learn Server Actions](https://youtu.be/FKZAXFjxlJI?feature=shared)
-- [Applicaton Workflow](https://miro.com/app/board/uXjVLT_tMdU=/?share_link_id=580854757703)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
